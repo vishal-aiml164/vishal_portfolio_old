@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Vishal K Singh</title>
+    <link>https://vishal-aiml164.github.io/vishal_portfolio/post/</link>
+    <description>Recent content in Projects on Vishal K Singh</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://vishal-aiml164.github.io/vishal_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Multi-Class Classification of Research Articles</title>
+      <link>https://vishal-aiml164.github.io/vishal_portfolio/post/project-1/</link>
+      <pubDate>Mon, 26 Oct 2020 20:58:08 +0530</pubDate>
+      
+      <guid>https://vishal-aiml164.github.io/vishal_portfolio/post/project-1/</guid>
+      <description>Below are the Items discussed in this Project:
+ Difference between Multi-Class v/s Multi-Label Classification Exploratory Data Analysis on the Datasets Model Building - BOW Approach, TFIDF Approach Data Cleansing Comparison of all the model    Link to Medium Article
+Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project-2: Predicting the number of likes for youtube video</title>
+      <link>https://vishal-aiml164.github.io/vishal_portfolio/post/project-2/</link>
+      <pubDate>Sat, 10 Oct 2020 11:00:59 +0530</pubDate>
+      
+      <guid>https://vishal-aiml164.github.io/vishal_portfolio/post/project-2/</guid>
+      <description>Below are the Items discussed in this Project:
+ Difference between Multi-Class v/s Multi-Label Classification Exploratory Data Analysis on the Datasets Model Building - BOW Approach, TFIDF Approach Data Cleansing Comparison of all the model    </description>
+    </item>
+    
+  </channel>
+</rss>
